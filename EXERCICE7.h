@@ -1,0 +1,9 @@
+#ifndef EXERCICE7_H_INCLUDED
+#define EXERCICE7_H_INCLUDED
+
+
+
+#endif // EXERCICE7_H_INCLUDED
+int EXERCICE7(){
+
+}
