@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdlib.h>
 #include "EXERCICE1.h"
 #include "EXERCICE2.h"
 #include "EXERCICE3.h"
@@ -8,6 +9,7 @@
 #include "EXERCICE6.h"
 #include "EXERCICE7.h"
 #include "EXERCICE8.h"
+#include "EXERCICE9.h"
 
 int main()
 {
@@ -19,5 +21,6 @@ int main()
     EXERCICE6();
     EXERCICE7();
     EXERCICE8();
+    EXERCICE9();
     return 0;
 }
